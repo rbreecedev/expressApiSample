@@ -1,4 +1,4 @@
 ### Run Local Dev Server
 ```
-dev-server
+npm run dev-server
 ```
